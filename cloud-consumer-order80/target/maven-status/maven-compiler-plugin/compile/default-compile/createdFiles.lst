@@ -1,0 +1,5 @@
+cn\ming\springcould\entity\CommonResult.class
+cn\ming\springcould\entity\Payment.class
+cn\ming\springcould\OrderMain80.class
+cn\ming\springcould\controller\OrderController.class
+cn\ming\springcould\config\ApplicationContextConfig.class
