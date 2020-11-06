@@ -1,0 +1,9 @@
+cn\ming\springcloud\pojo\Storage.class
+cn\ming\springcloud\SeataStorageMain2002.class
+cn\ming\springcloud\config\DataSourceProxyConfig.class
+cn\ming\springcloud\config\MyBatisConfig.class
+cn\ming\springcloud\service\impl\StorageServiceImpl.class
+cn\ming\springcloud\service\StorageService.class
+cn\ming\springcloud\pojo\CommonResult.class
+cn\ming\springcloud\controller\StorageController.class
+cn\ming\springcloud\dao\StorageDao.class
